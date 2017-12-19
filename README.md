@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# test
-=======
-# git
->>>>>>> origin/master
+gittest

@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# test
-=======
-# git
->>>>>>> origin/master
+git-clone - Clone a repository into a new directory
